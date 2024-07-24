@@ -1,0 +1,6 @@
+__pycache__
+__init__.py
+*.txt
+environment.py
+paintings.py
+app2.py
