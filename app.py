@@ -19,5 +19,4 @@ def draw(window):
     # Пример рисования пикселя с помощью команды Pixel
     Pixel(window, x=6, y=7, color="green", size=PIXEL_SIZE)
 
-
             
